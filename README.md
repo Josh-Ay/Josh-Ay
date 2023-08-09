@@ -60,11 +60,11 @@
 
 <details>
     <summary><samp>Currently learning</samp></summary>
-    <ol>
+    <ul>
         <li><samp>Typescript</samp></li>
         <li><samp>Dart</samp></li>
         <li><samp>Go</samp></li>
-    </ol>
+    </ul>
 </details>
 
 ![](https://hit.yhype.me/github/profile?user_id=20460003)
