@@ -29,6 +29,9 @@
             <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
         </td>
         <td align='center'>
+            <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg"> 
+        </td>
+        <td align='center'>
             <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
         </td>
     </tr>
@@ -38,6 +41,9 @@
         </td>
         <td align='center'>
             <samp>Javascript</samp>
+        </td>
+        <td align='center'>
+            <samp>Dart</samp>
         </td>
         <td align='center'>
             <samp>Java</samp>
@@ -96,6 +102,16 @@
             <samp>SASS/SCSS</samp>
         </td>
     </tr>
+    <tr>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+        </td>
+    </tr>
+    <tr>
+        <td align='center'>
+            <samp>Flutter</samp>
+        </td>
+    </tr>
 </table>
 
 <br />
@@ -137,7 +153,7 @@
     <summary><samp>Currently learning</samp></summary>
     <ul>
         <li><samp>Typescript</samp></li>
-        <li><samp>Dart</samp></li>
+        <!-- <li><samp>Dart</samp></li> -->
         <li><samp>Go</samp></li>
     </ul>
 </details>
