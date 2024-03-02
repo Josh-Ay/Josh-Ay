@@ -81,6 +81,12 @@
         <td align='center'>
             <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
         </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="./assets/ejs-icon.svg">
+        </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+        </td>
     </tr>
     <tr>
         <td align='center'>
@@ -100,6 +106,12 @@
         </td>
         <td align='center'>
             <samp>SASS/SCSS</samp>
+        </td>
+        <td align='center'>
+            <samp>EJS</samp>
+        </td>
+        <td align='center'>
+            <samp>jQuery</samp>
         </td>
     </tr>
     <tr>
