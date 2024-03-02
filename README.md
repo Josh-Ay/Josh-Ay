@@ -67,10 +67,10 @@
             <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         </td>
         <td align='center'>
-            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+            <img align="center" alt="Rafa-React" height="30" width="40" src="./assets/flask.png">
         </td>
         <td align='center'>
-            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+            <img align="center" alt="Rafa-React" height="30" width="40" src="./assets/express.png">
         </td>
         <td align='center'>
             <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
