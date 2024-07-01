@@ -1,6 +1,6 @@
 <p>
     <samp>
-        Hello there! I am Ayoola. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+        Hello there! I am Ayoola, a full-stack developer. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
     </samp>
 </p>
 
@@ -29,6 +29,9 @@
             <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
         </td>
         <td align='center'>
+            <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+        </td>
+        <td align='center'>
             <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg"> 
         </td>
         <td align='center'>
@@ -43,6 +46,9 @@
             <samp>Javascript</samp>
         </td>
         <td align='center'>
+            <samp>Typescript</samp>
+        </td>
+        <td align='center'>
             <samp>Dart</samp>
         </td>
         <td align='center'>
@@ -50,8 +56,6 @@
         </td>
     </tr>
 </table>
-  
-  <!-- <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
 
 <br />
 
@@ -128,6 +132,38 @@
 
 <br />
 
+<!-- <p>
+<samp>
+    Cloud Infrastructure
+</samp>
+</p>
+
+<table cellpadding='0' border='0px' cellspacing='0'>
+</table>
+
+<br /> -->
+
+<p>
+<samp>
+    Containerization
+</samp>
+</p>
+
+<table cellpadding='0' border='0px' cellspacing='0'>
+    <tr>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+        </td>
+    </tr>
+    <tr>
+        <td align='center'>
+            <samp>Docker</samp>
+        </td>
+    </tr>
+</table>
+
+<br />
+
 <p>
 <samp>
     Databases Used
@@ -164,8 +200,6 @@
 <details>
     <summary><samp>Currently learning</samp></summary>
     <ul>
-        <li><samp>Typescript</samp></li>
-        <!-- <li><samp>Dart</samp></li> -->
         <li><samp>Go</samp></li>
     </ul>
 </details>
