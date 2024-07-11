@@ -122,11 +122,23 @@
         <td align='center'>
             <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
         </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
+        </td>
+        <!-- <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+        </td> -->
     </tr>
     <tr>
         <td align='center'>
             <samp>Flutter</samp>
         </td>
+        <td align='center'>
+            <samp>Prisma</samp>
+        </td>
+        <!-- <td align='center'>
+            <samp>NextJS</samp>
+        </td> -->
     </tr>
 </table>
 
@@ -181,6 +193,12 @@
         <td align='center'>
             <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
         </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+        </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
+        </td>
     </tr>
     <tr>
         <td align='center'>
@@ -191,6 +209,12 @@
         </td>
         <td align='center'>
             <samp>MySQL</samp>
+        </td>
+        <td align='center'>
+            <samp>PostgreSQL</samp>
+        </td>
+        <td align='center'>
+            <samp>Firebase</samp>
         </td>
     </tr>
 </table>
