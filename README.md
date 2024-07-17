@@ -35,6 +35,9 @@
             <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg"> 
         </td>
         <td align='center'>
+            <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+        </td>
+        <td align='center'>
             <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
         </td>
     </tr>
@@ -50,6 +53,9 @@
         </td>
         <td align='center'>
             <samp>Dart</samp>
+        </td>
+        <td align='center'>
+            <samp>PHP</samp>
         </td>
         <td align='center'>
             <samp>Java</samp>
@@ -125,6 +131,9 @@
         <td align='center'>
             <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
         </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+        </td>
         <!-- <td align='center'>
             <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
         </td> -->
@@ -135,6 +144,9 @@
         </td>
         <td align='center'>
             <samp>Prisma</samp>
+        </td>
+        <td align='center'>
+            <samp>Laravel</samp>
         </td>
         <!-- <td align='center'>
             <samp>NextJS</samp>
