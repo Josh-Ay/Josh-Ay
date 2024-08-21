@@ -77,13 +77,13 @@
             <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         </td>
         <td align='center'>
-            <img align="center" alt="Rafa-React" height="30" width="40" src="./assets/flask.png" style="object-fit: contain;">
-        </td>
-        <td align='center'>
             <img align="center" alt="Rafa-React" height="30" width="40" src="./assets/express.png" style="object-fit: contain;">
         </td>
         <td align='center'>
             <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+        </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="./assets/flask.png" style="object-fit: contain;">
         </td>
         <td align='center'>
             <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
@@ -103,13 +103,13 @@
             <samp>React/React Native</samp>
         </td>
         <td align='center'>
-            <samp>Flask</samp>    
-        </td>
-        <td align='center'>
             <samp>ExpressJS</samp>
         </td>
         <td align='center'>
             <samp>NodeJS</samp>
+        </td>
+        <td align='center'>
+            <samp>Flask</samp>    
         </td>
         <td align='center'>
             <samp>Redux</samp>
@@ -129,18 +129,21 @@
             <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
         </td>
         <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+        </td>
+        <td align='center'>
             <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
         </td>
         <td align='center'>
             <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
         </td>
-        <!-- <td align='center'>
-            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-        </td> -->
     </tr>
     <tr>
         <td align='center'>
             <samp>Flutter</samp>
+        </td>
+        <td align='center'>
+            <samp>NextJS</samp>
         </td>
         <td align='center'>
             <samp>Prisma</samp>
@@ -148,9 +151,6 @@
         <td align='center'>
             <samp>Laravel</samp>
         </td>
-        <!-- <td align='center'>
-            <samp>NextJS</samp>
-        </td> -->
     </tr>
 </table>
 
@@ -239,5 +239,9 @@
         <li><samp>Go</samp></li>
     </ul>
 </details>
+
+<br />
+
+[![](https://visitcount.itsvg.in/api?id=Josh-AY&label=Profile%20Views&color=9&pretty=true)](https://visitcount.itsvg.in)
 
 ![](https://hit.yhype.me/github/profile?user_id=20460003)
