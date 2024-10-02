@@ -126,6 +126,9 @@
     </tr>
     <tr>
         <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">
+        </td>
+        <td align='center'>
             <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
         </td>
         <td align='center'>
@@ -139,6 +142,9 @@
         </td>
     </tr>
     <tr>
+        <td align='center'>
+            <samp>Socket.IO</samp>
+        </td>
         <td align='center'>
             <samp>Flutter</samp>
         </td>
