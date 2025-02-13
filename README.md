@@ -1,6 +1,6 @@
 <p>
     <samp>
-        Hello there! I am Ayoola, a full-stack developer. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+        Hello there! I am Ayoola Oloyede, a full-stack engineer. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
     </samp>
 </p>
 
